@@ -1,3 +1,5 @@
 apakah aku berhasil di sini:
 
 ya kamu berhasil, selamat
+
+coba dari notepad ++
